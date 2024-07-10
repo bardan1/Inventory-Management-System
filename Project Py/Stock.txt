@@ -1,0 +1,8 @@
+HK416, Heckler & Koch, 200, 14
+MP5, Heckler & Koch, 120, 13
+SPAS-12, Franchi, 180, 12
+CAR-15, Colt Company, 160, 11
+M1911a1, Colt Company, 80, 12
+Full Kevlar kit, Vectornate, 70, 10
+SRX Combat Radio, MOTOROLA, 80, 14
+Toyota Hilux, Toyota, 250, 16
